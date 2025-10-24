@@ -62,16 +62,16 @@ export default function Navbar() {
             href="#projects"
             className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
           >
-             About
-          </ScrollLink>
-          <ScrollLink
-            href="#contact"
-            className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
-          >
             Projects
           </ScrollLink>
           <ScrollLink
             href="#about"
+            className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
+          >
+             About
+          </ScrollLink>
+          <ScrollLink
+            href="#contact"
             className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
           >
             Contact
