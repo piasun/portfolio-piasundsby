@@ -22,9 +22,8 @@ export default function Navbar() {
           <ScrollLink href="#about" className={linkClass}>About</ScrollLink>
           <ScrollLink href="#contact" className={linkClass}>Contact</ScrollLink>
         </nav>
-
-        {/* Right controls */}
         <div className="flex items-center gap-2">
+
           {/* Mobile menu toggle */}
           <button
             onClick={() => setNavOpen(!navOpen)}
@@ -57,12 +56,30 @@ export default function Navbar() {
 
       {/* Mobile nav */}
       {navOpen && (
-        <div className="sm:hidden px-4 py-2 bg-white dark:bg-gray-900 text-sm space-y-2">
-          <ScrollLink href="#projects" className={linkClass}>Projects</ScrollLink>
-          <ScrollLink href="#about" className={linkClass}>About</ScrollLink>
-          <ScrollLink href="#contact" className={linkClass}>Contact</ScrollLink>
+      <div className="sm:hidden px-4 py-4 bg-white dark:bg-gray-900 text-sm">
+        <div className="flex flex-col space-y-2">
+          <ScrollLink
+            href="#projects"
+            className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
+          >
+             About
+          </ScrollLink>
+          <ScrollLink
+            href="#contact"
+            className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
+          >
+            Projects
+          </ScrollLink>
+          <ScrollLink
+            href="#about"
+            className="block px-4 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition"
+          >
+            Contact
+          </ScrollLink>
         </div>
+      </div>
       )}
+
     </header>
   );
 }
