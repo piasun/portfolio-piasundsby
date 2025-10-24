@@ -14,7 +14,7 @@ export default function Navbar() {
   return (
     <header className="bg-white dark:bg-gray-900 shadow sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-        <a href="#" className="text-xl font-bold text-indigo-600 dark:text-indigo-400">Pia Sun</a>
+        <a href="#" className="text-xl font-bold text-indigo-600 dark:text-indigo-400">Pia Sundsby</a>
 
         {/* Desktop nav */}
         <nav className="hidden sm:flex space-x-6 text-sm font-medium">
