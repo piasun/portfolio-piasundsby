@@ -25,7 +25,7 @@ This is my personal portfolio project built with **React**, **Vite**, and **Tail
 This portfolio highlights three major projects:
 
 - [**Vibbz**](https://vibbz.netlify.app/) – Social media app with authentication and Noroff API
-- [**eCommerce Store**] – React store with Zustand + Styled Components
+- **eCommerce Store** – React store with Zustand + Styled Components
 - [**ListIt**](https://list-it-auction-website.netlify.app/) – Vanilla JS auction site with user credits and bidding
 
 ---
