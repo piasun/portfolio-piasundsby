@@ -8,25 +8,6 @@ This is my personal portfolio project built with **React**, **Vite**, and **Tail
 
 ---
 
-## 📁 Project Structure
-
-```bash
-├── public/
-├── src/
-│ ├── assets/ → Images and static assets
-│ ├── components/ → Reusable UI components (e.g. Navbar, Footer)
-│ ├── sections/ → Page sections (e.g. About, Contact)
-│ ├── App.jsx → App entry point
-│ ├── main.jsx → React DOM root
-│ └── index.css → Tailwind + global styles
-├── index.html
-├── tailwind.config.mjs
-├── vite.config.mjs
-└── package.json
-```
-
----
-
 ## 🧰 Tech Stack
 
 - ⚛️ React (via Vite)
@@ -53,8 +34,8 @@ This portfolio highlights three major projects:
 
 You can reach me via:
 
-- 📧 Email: piasun.dev@gmail.com
-- 💼 LinkedIn: LinkedIn Profile
-- 💻 GitHub: piasun
+- 📧 Email: piasundsby@gmail.com
+- 💼 [LinkedIn] (https://www.linkedin.com/in/pia-sundsby/)
+- 💻 [GitHub](https://github.com/piasun)
 
 ---
