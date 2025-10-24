@@ -5,21 +5,21 @@ export default function Portfolio() {
     {
         title: "Vibbz – Social Media App",
         description: "A modern social platform using React and Noroff API.",
-        image: "/src/assets/frontpage_Vibbz.png",
+        image: "/images/frontpage_Vibbz.png",
         github: "https://github.com/piasun/project-exam-2-vibbz",
         live: "https://vibbz.netlify.app/"
     },
     {
         title: "React eCommerce Store",
         description: "E-commerce project with Zustand and styled components.",
-        image: "/src/assets/yms_screenshot.png",
+        image: "/images/yms_screenshot.png",
         github: "https://github.com/piasun/js-frameworks-ca",
         live: "#"
     },
     {
         title: "List It – Auction Website",
         description: "JavaScript auction app for bidding and listing items.",
-        image: "/src/assets/website-listit.png",
+        image: "/images/website-listit.png",
         github: "https://github.com/piasun/semester-project-2",
         live: "https://list-it-auction-website.netlify.app/"
     }
