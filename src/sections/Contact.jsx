@@ -14,7 +14,7 @@ export default function Contact() {
         <a href="https://github.com/piasun" target="_blank" rel="noreferrer" className="border border-gray-300 px-5 py-2 rounded hover:bg-gray-100 dark:border-gray-600 hover:bg-gray-800 transition hover:text-white">
           GitHub
         </a>
-        <a href="#" className="border border-gray-300 px-5 py-2 rounded hover:bg-gray-100 dark:border-gray-600 hover:bg-gray-800 transition hover:text-white">
+        <a href="https://www.linkedin.com/in/pia-sundsby/" className="border border-gray-300 px-5 py-2 rounded hover:bg-gray-100 dark:border-gray-600 hover:bg-gray-800 transition hover:text-white">
           LinkedIn
         </a>
       </div>

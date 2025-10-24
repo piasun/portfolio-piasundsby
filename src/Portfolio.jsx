@@ -13,8 +13,7 @@ export default function Portfolio() {
         title: "React eCommerce Store",
         description: "E-commerce project with Zustand and styled components.",
         image: "/images/yms_screenshot.png",
-        github: "https://github.com/piasun/js-frameworks-ca",
-        live: "#"
+        github: "https://github.com/piasun/js-frameworks-ca"
     },
     {
         title: "List It – Auction Website",

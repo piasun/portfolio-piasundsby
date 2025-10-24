@@ -34,7 +34,7 @@ This portfolio highlights three major projects:
 
 You can reach me via:
 
-- 📧 Email: piasundsby@gmail.com
+- 📧 Email: [piasundsby@gmail.com](mailto:piasundsby@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pia-sundsby/)
 - 💻 [GitHub](https://github.com/piasun)
 
